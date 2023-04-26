@@ -1,0 +1,12 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.index_img {
+    width: 100%;
+    height: 100%;
+}
+
+.actionForm {
+    border-style: solid;
+}
